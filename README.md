@@ -11,8 +11,8 @@ The plugins is JWt secured aand requires no special configuration. Just upload a
 * Order
 
 ### User account. 
-All methods use HTTP verb: POST
-Controller: apiuser
+* All methods use HTTP verb: POST
+* Controller: apiuser
 1. Reset password
    * route: /resetpassword
    * required request type: Json body
@@ -69,9 +69,9 @@ Controller: apiuser
     "customer":{
         "username":"user@email"
     }
- }
- ```
- * success response: Json body
+   }
+   ```
+   * success response: Json body
 
  ```JSON
  {
@@ -90,8 +90,8 @@ Controller: apiuser
  <img width="636" height="400" alt="auth" src="https://github.com/manegene/nopcommerce-restapi-plugin/assets/13959629/e110cd12-55e7-4d52-8585-e4a1de79b826">
 
 ### products and categories
-All methods use HTTP ver: GET
-Controller: apiproducts
+* All methods use HTTP ver: GET
+* Controller: apiproducts
 1. AllProducts
    * Route: /apiproducts
    * 
