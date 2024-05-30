@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Misc",
+  "FriendlyName": "Web API",
+  "SystemName": "Misc.RestAPI",
+  "Version": "1.10",
+  "SupportedVersions": [ "4.60" ],
+  "Author": "Robert Manegene",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Misc.RestAPI.dll",
+  "Description": "nopCommerce Rest API "
+}
